@@ -45,5 +45,3 @@ Here’s what I’m planning to add:
 - **Predictive Analytics**: Forecast future trends based on past data.
 
 ---
-
-Feel free to explore the repository and share your thoughts! 😊 Let me know if there’s something you’d like to see improved or added.
